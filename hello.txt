@@ -1,5 +1,4 @@
 Hello world!
 Nice to meet you!
-<<<<<<< HEAD
 first update-------------master test
 hot-fix hot-fix hot-fix ==== hot-fix
